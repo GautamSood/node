@@ -94,7 +94,7 @@ const postTour = (req, res) =>{
 const getAllUsers = (req, res) => {
     res.status(500).json({
         success : "success",
-        message : "this not defined yet"
+        message : "not defined yet"
     })
 }
 const postUser = (req, res) => {
